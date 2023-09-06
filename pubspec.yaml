@@ -1,6 +1,6 @@
 name: lhh_circular_chart
 description: A circular chart library which includes data visualization widgets such as pie and doughnut charts.
-version: 0.0.1
+version: 0.0.2
 repository: https://github.com/light-mode/circular-chart
 
 environment:
